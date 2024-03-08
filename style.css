@@ -1,5 +1,29 @@
+h1 {
+  text-align: center;
+}
+
 body {
-  width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+  display:block
+}
+
+.nav-a {
+  padding: 10px;
+  color: white;
+  background-color: crimson;
+  border-radius: 5%;
+}
+
+nav {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+.featured-pro-text{
+  margin-left: 15%;
+  margin-right: 15%;  
 }
