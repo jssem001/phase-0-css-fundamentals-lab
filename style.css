@@ -27,3 +27,12 @@ nav {
   margin-left: 15%;
   margin-right: 15%;  
 }
+
+div {
+  float: left;
+  text-align: center;
+  width: 25%;
+  color: white;
+  background-color: crimson;
+}
+
